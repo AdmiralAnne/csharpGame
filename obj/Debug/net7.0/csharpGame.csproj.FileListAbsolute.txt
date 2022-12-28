@@ -1,0 +1,15 @@
+D:\Coding\repository_local\csharpGame\bin\Debug\net7.0\csharpGame.exe
+D:\Coding\repository_local\csharpGame\bin\Debug\net7.0\csharpGame.deps.json
+D:\Coding\repository_local\csharpGame\bin\Debug\net7.0\csharpGame.runtimeconfig.json
+D:\Coding\repository_local\csharpGame\bin\Debug\net7.0\csharpGame.dll
+D:\Coding\repository_local\csharpGame\bin\Debug\net7.0\csharpGame.pdb
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.csproj.AssemblyReference.cache
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.AssemblyInfoInputs.cache
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.AssemblyInfo.cs
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.csproj.CoreCompileInputs.cache
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.dll
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\refint\csharpGame.dll
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.pdb
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\csharpGame.genruntimeconfig.cache
+D:\Coding\repository_local\csharpGame\obj\Debug\net7.0\ref\csharpGame.dll
