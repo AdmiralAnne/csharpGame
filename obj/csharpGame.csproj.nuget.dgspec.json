@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\repository_local\\csharpGame\\csharpGame.csproj": {}
+    "C:\\Users\\rooki\\OneDrive\\Documents\\GitHub\\csharpGame\\csharpGame.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\repository_local\\csharpGame\\csharpGame.csproj": {
+    "C:\\Users\\rooki\\OneDrive\\Documents\\GitHub\\csharpGame\\csharpGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\repository_local\\csharpGame\\csharpGame.csproj",
+        "projectUniqueName": "C:\\Users\\rooki\\OneDrive\\Documents\\GitHub\\csharpGame\\csharpGame.csproj",
         "projectName": "csharpGame",
-        "projectPath": "D:\\Coding\\repository_local\\csharpGame\\csharpGame.csproj",
+        "projectPath": "C:\\Users\\rooki\\OneDrive\\Documents\\GitHub\\csharpGame\\csharpGame.csproj",
         "packagesPath": "C:\\Users\\rooki\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\repository_local\\csharpGame\\obj\\",
+        "outputPath": "C:\\Users\\rooki\\OneDrive\\Documents\\GitHub\\csharpGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rooki\\AppData\\Roaming\\NuGet\\NuGet.Config"
