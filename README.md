@@ -16,12 +16,12 @@
 ```cs
 dotnet new console
 ```
-
+<img src="/Pictures/demo1.png" alt="MarineGEO circle logo" style="height: 300px; width:800px;"/>
 3. Build and run your program: When you are finished writing your code, you can build and run your program by typing the following command in the terminal
 
 ```cs
 dotnet run
 ```
-
+<img src="/Pictures/demo2.png" alt="MarineGEO circle logo" style="height: 300px; width:230px;"/>
 This will compile your code and launch the console application.
 
